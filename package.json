@@ -11,8 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "bootstrap": "^4.5.3",
     "css-loader": "^5.0.1",
     "html-webpack-plugin": "^4.5.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1",
     "style-loader": "^2.0.0",
     "webpack": "^5.10.0",
     "webpack-dev-server": "^3.11.0"
